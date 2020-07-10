@@ -76,7 +76,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Pós 
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## Visitas
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=iamelisandromello.iamelisandromello)
 
