@@ -25,7 +25,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Pós 
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
+        <span>TypeScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
