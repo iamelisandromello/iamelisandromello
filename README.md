@@ -78,7 +78,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Pós 
 
 ## Visitas
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=iamelisandromello.iamelisandromello)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=iamelisandromello)
 
 ---
-⭐️ From [Elisandro Mello Correa(https://github.com/iamelisandromello)
+⭐️ From [Elisandro Mello Correa(https://github.com/iamelisandromello.iamelisandromello)
