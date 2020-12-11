@@ -9,7 +9,7 @@ Bacharel em Ciencia da Computação | Graduando em Gestão de Projetos | IT Spec
 
 💬 Sobre Mim 
 
-Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Pós Graduando em MBA de Gestão de Projetos pela Universidade La Salle (2018-2020). Profissional Full Stack Developer atua desde o planejamento, análise e desenvolvimento back-end e front-end de sistemas. Possui fluência em diversas linguagens de programação. Apaixonado pelo conceito Clean Architecture e o uso de patterns como: Builder, Factory, Composite, Decorator e Strategy  na estruturação de um código limpo.
+Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Especialista em Gestão de Projetos pela Universidade La Salle. Profissional Full Stack Developer atua desde o planejamento, análise e desenvolvimento back-end e front-end de sistemas. Possui fluência em diversas linguagens de programação. Apaixonado pelo conceito Clean Architecture e o uso de patterns como: Builder, Factory, Composite, Decorator e Strategy  na estruturação de um código limpo.
 
 :computer:  Mais informações, meus projetos e trabalhos [Portfólio](http://elisandromello.com.br) siga lá
 
