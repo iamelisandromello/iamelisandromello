@@ -75,16 +75,21 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       </td>
         <td width="25%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+        <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
+      </td>
+      </td>
+        <td width="25%" align="center">
         <span>Redis</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
       </td>
       <td width="25%" align="center">
         <span>Pinecone</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pinecone-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
     </tr>
   </tbody>
