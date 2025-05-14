@@ -29,13 +29,31 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>GO</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+      </td>
+    </tr>
+        <tr valign="top">
+      <td width="25%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
+      <td width="25%" align="center">
         <span>Claude</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/claude-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>GO</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
-      </td>https://cdn.svgporn.com/logos/claude-icon.svg
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
