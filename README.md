@@ -71,8 +71,10 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       <td width="25%" align="center">
         <span>MongoDB</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
+        </tr>
+    <tr valign="top">
       </td>
-            <td width="25%" align="center">
+        <td width="25%" align="center">
         <span>Terraform</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
       </td>
