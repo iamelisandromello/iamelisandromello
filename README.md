@@ -47,12 +47,12 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/openai.svg">
       </td>
       <td width="25%" align="center">
-        <span>ReactJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span>Pinecone</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pinecone-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular.svg">
+        <span>Biome</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/biomejs-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -61,16 +61,16 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Terraform</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span>GitHub Actions</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
       </td>
       <td width="25%" align="center">
         <spanMongoDBspan><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
     </tr>
   </tbody>
