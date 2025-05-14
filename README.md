@@ -44,7 +44,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       </td>
       <td width="25%" align="center">
         <span>OpenAI</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/openapi-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/openai.svg">
       </td>
       <td width="25%" align="center">
         <span>Claude</span><br><br><br>
@@ -57,20 +57,20 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Biome</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/biomejs-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SonarQube</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sonarqube.svg">
+      </td>      
+      <td width="25%" align="center">
         <span>RAbbitMQ</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Kafka</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kafka.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>OpenAI</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/openapi-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Biome</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/biomejs-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -107,7 +107,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       </td>
       <td width="25%" align="center">
         <span>Pinecone</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pinecone-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/pinecone.svg">
       </td>
     </tr>
   </tbody>
