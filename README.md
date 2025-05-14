@@ -29,13 +29,13 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Claude</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/claude-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>GO</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
-      </td>
+      </td>https://cdn.svgporn.com/logos/claude-icon.svg
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -47,8 +47,8 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/openapi-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Pinecone</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pinecone-icon.svg">
+        <span>RAbbitMQ</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Biome</span><br><br><br>
@@ -69,7 +69,19 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
       </td>
       <td width="25%" align="center">
-        <span>MongoDBs</span><br><br><br>
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>Terraform</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Pinecone</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pinecone-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
       </td>
     </tr>
