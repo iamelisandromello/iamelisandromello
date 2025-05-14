@@ -40,11 +40,11 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       <td width="25%" align="center">
         <span>Gemini</span><br><br><br>
-        <img height="64px" src="[https://cdn.svgporn.com/logos/html-5.svg](https://cdn.svgporn.com/logos/google-gemini.svg)">
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-gemini.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>OpenAI</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/openai.svg">
       </td>
       <td width="25%" align="center">
         <span>ReactJS</span><br><br><br>
