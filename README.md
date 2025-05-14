@@ -52,7 +52,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       </td>
       <td width="25%" align="center">
         <span>GitHub Copilot</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-copilot.svg">
       </td>
     </tr>
     <tr valign="top">
