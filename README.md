@@ -44,7 +44,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       </td>
       <td width="25%" align="center">
         <span>OpenAI</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/openai.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/openapi-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Pinecone</span><br><br><br>
