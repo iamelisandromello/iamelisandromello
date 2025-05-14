@@ -69,8 +69,8 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
         <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
       </td>
       <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
         </tr>
     <tr valign="top">
       </td>
