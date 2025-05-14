@@ -57,16 +57,16 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Gemini</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/google-gemini.svg">
+        <span>RAbbitMQ</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Kafka</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kafka.svg">
       </td>
       <td width="25%" align="center">
         <span>OpenAI</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/openapi-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>RAbbitMQ</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Biome</span><br><br><br>
