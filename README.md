@@ -75,8 +75,8 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       </td>
         <td width="25%" align="center">
-        <span>Terraform</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+        <span>Redis</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
       </td>
       <td width="25%" align="center">
         <span>Pinecone</span><br><br><br>
