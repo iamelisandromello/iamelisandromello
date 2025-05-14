@@ -22,7 +22,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       <td width="25%" align="center">
         <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>TypeScript</span><br><br><br>
@@ -39,20 +39,20 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     </tr>
         <tr valign="top">
       <td width="25%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <span>Gemini</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-gemini.svg">
       </td>
       <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+        <span>OpenAI</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/openapi-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Claude</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/claude-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>GO</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+        <span>GitHub Copilot</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
     </tr>
     <tr valign="top">
