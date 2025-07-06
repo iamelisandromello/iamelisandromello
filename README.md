@@ -22,7 +22,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       <td width="25%" align="center">
         <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
         <span>TypeScript</span><br><br><br>
@@ -48,7 +48,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       </td>
       <td width="25%" align="center">
         <span>Claude</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/claude-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/claude.svg">
       </td>
       <td width="25%" align="center">
         <span>GitHub Copilot</span><br><br><br>
@@ -58,7 +58,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       <td width="25%" align="center">
         <span>Biome</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/biomejs-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/biomejs.svg">
       </td>
       <td width="25%" align="center">
         <span>SonarQube</span><br><br><br>
@@ -66,7 +66,7 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
       </td>      
       <td width="25%" align="center">
         <span>RAbbitMQ</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/rabbitmq.svg">
       </td>
       <td width="25%" align="center">
         <span>Kafka</span><br><br><br>
@@ -76,11 +76,11 @@ Bacharel em Ciência da Computação pela Universidade Luterana do Brasil. Espec
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
       </td>
       <td width="25%" align="center">
         <span>Terraform</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/terraform.svg">
       </td>
       <td width="25%" align="center">
         <span>GitHub Actions</span><br><br><br>
